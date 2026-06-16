@@ -37582,3 +37582,10 @@ https://zythophile.co.uk/feed
 https://zzamboni.org/post/index.xml
 https://zzizful.space/feed.xml
 https://zzpxyx.com/rss.xml
+https://lost-cluster.org/rssfeed.xml
+https://c0t0d0s0.org/feed.xml
+https://muhh.lol/feed.xml
+https://forkingmad.blog/feed/?type=rss
+https://blog.avas.space/feed/
+https://divergentrays.com/blog/blogfeed.xml
+https://louplummer.lol/feed/
